@@ -9,3 +9,6 @@
          url("https://cdn.jsdelivr.net/gh/websfont/dodamdodam/dodamdodam.ttf") format("truetype");
     font-display: swap;
 } 
+.dodamdodam {
+    font-family: "dodamdodam";
+}
